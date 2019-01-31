@@ -3,8 +3,8 @@ This program allows the user to enter a day month and year. The program will the
 
 ### Inputs:
 - The program takes in the Month Day Year in that order. The month has to have
-- The first letter in upper case and the rest of the first three letters 
-- in lower case. 
+- The first letter in upper case and the rest of the first three letters in lower case.
+- File gets taken in with argv eg. of command line execution : main.exe "Jan" 31 2019
 
 ### Outputs:
 - Once the correct input is entered the program would output the day on which
